@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1691037014530,
+      "tag": "0000_complex_iron_lad",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1691037273686,
+      "tag": "0001_friendly_mentor",
+      "breakpoints": false
+    }
+  ]
+}
